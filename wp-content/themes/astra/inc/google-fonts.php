@@ -389,7 +389,7 @@ return array(
 	),
 	array(
 		'Anaheim' => array(
-			'variants' => array( 'regular' ),
+			'variants' => array( 'regular', '500', '600', '700', '800' ),
 			'category' => 'sans-serif',
 		),
 	),
@@ -1432,6 +1432,12 @@ return array(
 		),
 	),
 	array(
+		'Cactus Classical Serif' => array(
+			'variants' => array( 'regular' ),
+			'category' => 'serif',
+		),
+	),
+	array(
 		'Caesar Dressing' => array(
 			'variants' => array( 'regular' ),
 			'category' => 'display',
@@ -1741,6 +1747,12 @@ return array(
 		'Chivo Mono' => array(
 			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900', '100italic', '200italic', '300italic', 'italic', '500italic', '600italic', '700italic', '800italic', '900italic' ),
 			'category' => 'monospace',
+		),
+	),
+	array(
+		'Chocolate Classical Sans' => array(
+			'variants' => array( 'regular' ),
+			'category' => 'sans-serif',
 		),
 	),
 	array(
@@ -4234,6 +4246,18 @@ return array(
 		),
 	),
 	array(
+		'LXGW WenKai Mono TC' => array(
+			'variants' => array( '300', 'regular', '700' ),
+			'category' => 'monospace',
+		),
+	),
+	array(
+		'LXGW WenKai TC' => array(
+			'variants' => array( '300', 'regular', '700' ),
+			'category' => 'handwriting',
+		),
+	),
+	array(
 		'La Belle Aurore' => array(
 			'variants' => array( 'regular' ),
 			'category' => 'handwriting',
@@ -5159,7 +5183,7 @@ return array(
 	),
 	array(
 		'Monda' => array(
-			'variants' => array( 'regular', '700' ),
+			'variants' => array( 'regular', '500', '600', '700' ),
 			'category' => 'sans-serif',
 		),
 	),
@@ -9163,6 +9187,12 @@ return array(
 		'Tinos' => array(
 			'variants' => array( 'regular', 'italic', '700', '700italic' ),
 			'category' => 'serif',
+		),
+	),
+	array(
+		'Tiny5' => array(
+			'variants' => array( 'regular' ),
+			'category' => 'sans-serif',
 		),
 	),
 	array(
